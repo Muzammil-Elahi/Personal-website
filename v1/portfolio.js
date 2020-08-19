@@ -1,8 +1,8 @@
-if (jQuery) {
+/* if (jQuery) {
     alert("jQuery loaded")
 } else {
     alert("jQuery not loaded")
-}
+} */
 /* $("#nav-softDev-tab").addClass("active"); // starts as active for some reason
 $("#nav-softDev-tab").toggleClass("active");
 $("#nav-softDev-tab").on("click", function() {
