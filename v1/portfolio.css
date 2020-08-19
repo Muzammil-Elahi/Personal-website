@@ -1,0 +1,107 @@
+/* #mainNav {
+    margin-bottom: 25%;
+} */
+
+#mainNav {
+    background-color: black;
+}
+
+#mainNav .nav-link {
+    color: white;
+}
+
+#mainNav .link {
+    color: yellow;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: Lato, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Montserrat, sans-serif;
+}
+
+#pic {
+    width: fit-content;
+    height: fit-content;
+    max-width: 420px;
+    max-height: 420px;
+    /* This will calculate the 100% viewport height minus 50px */
+}
+
+#intro {
+    padding: auto;
+}
+
+a.nav-item.nav-link {
+    color: white;
+}
+
+
+/* a.active {
+    color: black;
+} */
+
+
+/*.jumbotron .bg-dark {
+    background-color: black;
+} */
+
+.jumbotron {
+    margin: auto auto;
+    background-color: black;
+}
+
+.nav-tabs>div>a.active {
+    color: black;
+}
+
+
+/* .custom-toggler .navbar-toggler-icon {
+  border-color: white;
+} */
+
+.carousel {
+    margin-top: 20px;
+}
+
+.carousel-inner {
+    height: 200px;
+}
+
+.carousel-caption {
+    color: #fff;
+    top: 50%;
+}
+
+form {
+    background-color: black;
+}
+
+.card {
+    background-color: black;
+}
+
+.card-img-top {
+    height: 100px;
+    width: 100px;
+}
+
+.contact {
+    align-items: center;
+    justify-items: center;
+}
+
+pre {
+    color: white;
+    font-family: Lato, sans-serif;
+    /* body is overwritten in pre so have to chnage font here
+} */
+}
